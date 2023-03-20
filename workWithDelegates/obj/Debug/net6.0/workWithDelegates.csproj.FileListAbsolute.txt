@@ -1,0 +1,15 @@
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\workWithDelegates\workWithDelegates\bin\Debug\net6.0\workWithDelegates.exe
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\workWithDelegates\workWithDelegates\bin\Debug\net6.0\workWithDelegates.deps.json
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\workWithDelegates\workWithDelegates\bin\Debug\net6.0\workWithDelegates.runtimeconfig.json
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\workWithDelegates\workWithDelegates\bin\Debug\net6.0\workWithDelegates.dll
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\workWithDelegates\workWithDelegates\bin\Debug\net6.0\workWithDelegates.pdb
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\workWithDelegates\workWithDelegates\obj\Debug\net6.0\workWithDelegates.csproj.AssemblyReference.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\workWithDelegates\workWithDelegates\obj\Debug\net6.0\workWithDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\workWithDelegates\workWithDelegates\obj\Debug\net6.0\workWithDelegates.AssemblyInfoInputs.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\workWithDelegates\workWithDelegates\obj\Debug\net6.0\workWithDelegates.AssemblyInfo.cs
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\workWithDelegates\workWithDelegates\obj\Debug\net6.0\workWithDelegates.csproj.CoreCompileInputs.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\workWithDelegates\workWithDelegates\obj\Debug\net6.0\workWithDelegates.dll
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\workWithDelegates\workWithDelegates\obj\Debug\net6.0\refint\workWithDelegates.dll
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\workWithDelegates\workWithDelegates\obj\Debug\net6.0\workWithDelegates.pdb
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\workWithDelegates\workWithDelegates\obj\Debug\net6.0\workWithDelegates.genruntimeconfig.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\workWithDelegates\workWithDelegates\obj\Debug\net6.0\ref\workWithDelegates.dll
